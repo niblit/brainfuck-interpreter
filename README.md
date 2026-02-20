@@ -8,3 +8,5 @@ En el modelo abstracto canónico de máquina para Brainfuck, un programa opera s
 Los ocho comandos del idioma consisten cada uno en un solo carácter:
 
 | Carácter | Instrucción realizada |
+| ----------- | ----------- |
+| Carácter | Instrucción realizada |
